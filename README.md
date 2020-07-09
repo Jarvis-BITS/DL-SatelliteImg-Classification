@@ -1,6 +1,7 @@
-# DL-Satellite_Img-Classification
-### This python program utilizes Pytorch to create a Deep Learning model centered around environment detection;detecting what type of environment is shown in satellite imagery i.e Playgrounds, residential areas etc.
+# DeepLearning-SatelliteImg-Scene_Classification
+### This python program utilizes Pytorch to create a Deep Learning model centered around environment & scene detection;detecting what type of environment is shown in satellite imagery i.e Playgrounds, residential areas etc.
 
+##### The dataset can be downloaded from [this link](http://bigearth.net/)
 
 #### Awesome DL satellite models to check out: [Robmarkcole Satellite DL](https://github.com/robmarkcole/satellite-image-deep-learning), [How to train image classifier](https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)
 
